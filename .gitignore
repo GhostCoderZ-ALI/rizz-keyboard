@@ -1,0 +1,31 @@
+# Android Studio
+.gradle/
+/local.properties
+/.idea/
+/.vs/
+/build/
+/captures/
+.externalNativeBuild/
+/cmake/
+*.iml
+*.hprof
+
+# Intellij
+*.jar
+*.zip
+*.war
+*.ear
+
+# Gradle
+*/gradle-wrapper.jar
+*/gradle-wrapper.properties
+
+# Android
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.so
+*.jar
+*.h
+*.log
